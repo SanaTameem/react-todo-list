@@ -1,8 +1,8 @@
 .todoApp-container {
   background-color: antiquewhite;
   display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    width: 40%;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
 }
