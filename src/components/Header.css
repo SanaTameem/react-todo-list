@@ -1,0 +1,11 @@
+.header-container{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.header-title{
+    font-size: 50px;
+}
+.header-para{
+    font-size: 20px;
+}
