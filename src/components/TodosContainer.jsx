@@ -7,28 +7,6 @@ import './TodoContainer.css';
 function TodosContainer({
   todos, setTodos, counter, setCounter,
 }) {
-  // useEffect(() => {
-  //   const storedTodos = localStorage.getItem('todos');
-  //   if (storedTodos) {
-  //     setTodos(JSON.parse(storedTodos));
-  //   }
-  // }, [setTodos]);
-
-  // useEffect(() => {
-  //   const storedCounter = localStorage.getItem('counter');
-  //   if (storedCounter) {
-  //     setCounter(parseInt(storedCounter, 10));
-  //   }
-  // }, [setCounter]);
-
-  // useEffect(() => {
-  //   localStorage.setItem('todos', JSON.stringify(todos));
-  // }, [todos]);
-
-  // useEffect(() => {
-  //   localStorage.setItem('counter', counter.toString());
-  // }, [counter]);
-
   const addItem = (title) => {
     const newItem = {
       id: counter,
