@@ -61,7 +61,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://startling-lebkuchen-8b3dd9.netlify.app/)
+- [Live Demo Link](https://enchanting-kitten-aa2149.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
